@@ -1,0 +1,110 @@
+/* ====== internet part  ====== */
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.internet {
+    padding: 30px 0;
+}
+.internet-photo {
+    float: left;
+    vertical-align: middle;
+}
+.internet_text {
+    float: right;
+    width: 782px;
+    margin-top: 112px;
+    font-family: "ninoBold";
+}
+.internet_text h1{
+       font-size: 25px;
+       color: blue;
+       margin-bottom: 10px;
+}
+.internet {
+    background-color: #0BB47B
+}
+.clear {
+    clear: both;
+}
+/* ====== internet part  ====== */
+/* ====== web part  ====== */
+.web-photo {
+    width: 365px;
+    float: right;
+}
+.web {
+    float: left;
+    margin-top: 100px;
+    font-family: "ninoBold";
+}
+.web h1 {
+    font-size: 25px;
+    color: blue;
+}
+.web p {
+    margin-top: 10px;
+    color: #ffffff;
+}
+.grey {
+    background-color: #445851;
+    padding: 30px 0;
+}
+
+/* ====== web part  ====== */
+/* ====== part 3  ====== */
+.banner {
+    padding: 30px 0;
+}
+.banner-img {
+    width: 1200px;
+}
+.banner-text h1 {
+    font-size: 25px;
+    color: blue;
+    margin-bottom: 10px;
+}
+.banner-text {
+    margin-top: 50px;
+    font-family: "ninoBold";
+}
+.banner-text-second-p {
+    margin: 10px 0;
+}
+.banner-text-p::after{
+    content: "(დანართი იხ. ქვემოთ)";
+    display: block;
+}
+/* ====== part 3  ====== */
+/* ====== part 4 დანართი  ====== */
+.add-text h1 {
+    font-size: 25px;
+    color: blue;
+    margin-bottom: 10px;
+}
+.add-photo {
+    margin-bottom: 50px;
+}
+.add-text {
+    font-family: "ninoBold";
+}
+.add {
+    background-color: #B0C6AC;
+    padding: 30px 0;
+}
+/* ====== part 4 დანართი  ====== */
+/* ====== footer  ====== */
+.footer span::after {
+    content: "";
+    width: 1px;
+    background-color: black;
+    height: 15px;
+    display: inline-block;
+    margin: 0 10px;
+}
+.footer {
+    font-family: "ninoBold";
+    margin: 10px 0;
+}
+/* ====== footer  ====== */
